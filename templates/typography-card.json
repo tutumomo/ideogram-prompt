@@ -1,0 +1,17 @@
+{
+  "high_level_description": "A clean, modern business card layout for a tech startup, white card with a single accent block of brand blue in the upper right, two text elements placed with intentional asymmetric balance.",
+  "style_description": {
+    "aesthetics": "minimal, professional, geometric, calm",
+    "lighting": "even, diffuse studio lighting with a soft drop shadow under the card",
+    "medium": "graphic_design",
+    "art_style": "flat vector design, generous whitespace, sans-serif typography, subtle paper texture",
+    "color_palette": ["#FFFFFF", "#F0F0F0", "#1A1A1A", "#0A66C2", "#00CC88"]
+  },
+  "compositional_deconstruction": {
+    "background": "A solid off-white card surface with a subtle paper-grain texture, edges softly shadowed. A solid brand-blue rectangular accent block fills the upper right quadrant.",
+    "elements": [
+      {"type": "text", "bbox": [200, 80, 320, 580], "text": "ACME TECH", "desc": "Bold dark-grey sans-serif company name set in the lower-left two-thirds, all caps, tight letter-spacing."},
+      {"type": "text", "bbox": [560, 80, 700, 580], "text": "hello@acme.tech", "desc": "Small brand-blue sans-serif contact email below the company name, sentence case."}
+    ]
+  }
+}

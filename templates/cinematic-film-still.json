@@ -1,0 +1,18 @@
+{
+  "high_level_description": "A cinematic 35mm film still of a lone wooden sailboat on a glassy lake at dusk, the boat placed on a right-third vertical with the horizon at the lower third, in a cool muted blue palette.",
+  "style_description": {
+    "aesthetics": "Cinematic, minimal, serene, quiet stillness.",
+    "lighting": "Cool overcast dusk light with a small warm sun low at the horizon; muted and low-contrast, no harsh specular highlights.",
+    "photo": "35mm motion-picture film still, 16:9 framing, subtle grain, slightly desaturated, anamorphic-style horizontal flare on the sun",
+    "medium": "photograph",
+    "color_palette": ["#1B3A5C", "#5B8FB9", "#0F2235", "#E8C99B", "#0A1825"]
+  },
+  "compositional_deconstruction": {
+    "background": "Windless evening on a wide lake. Horizon sits at the lower third. A dusty blue-violet sky with a small amber sun low at the horizon and a thin gold streak reflected across the glassy teal water. Subtle 35mm grain throughout, no halation.",
+    "elements": [
+      {"type": "obj", "bbox": [380, 590, 660, 720], "desc": "Lone wooden sailboat on the right-third vertical in the midground, dark varnished hull and a single tall mast with a slack white sail hanging limp in the still air. No visible crew."},
+      {"type": "obj", "desc": "Mirror-perfect reflection of the sailboat and its mast doubling straight down into the glassy teal water directly beneath the hull, inverted and slightly darker than the boat itself."},
+      {"type": "obj", "desc": "Out-of-focus reed tips slicing into the lower-left foreground, soft dark blades against the teal water, blurred from proximity to the camera lens."}
+    ]
+  }
+}

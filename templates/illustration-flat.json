@@ -1,0 +1,18 @@
+{
+  "high_level_description": "A flat vector illustration of a small floating island carrying a single house and a tree, in a friendly editorial style suitable for a hero banner.",
+  "style_description": {
+    "aesthetics": "bright, friendly, geometric, soft pastel, optimistic",
+    "lighting": "even flat lighting with a single soft long shadow on the right",
+    "medium": "illustration",
+    "art_style": "flat vector illustration, bold clean outlines, geometric shapes, minimal noise, generous use of negative space",
+    "color_palette": ["#A6D0E4", "#FFD9A6", "#FFB4A2", "#7FB069", "#FFFFFF", "#3D405B"]
+  },
+  "compositional_deconstruction": {
+    "background": "A pale sky-blue solid background with a single soft white cloud silhouette on the left and a tiny dot-pattern of stars on the right. No gradient.",
+    "elements": [
+      {"type": "obj", "bbox": [350, 200, 720, 800], "desc": "A small floating island shaped like an inverted dome, the underside dotted with tiny triangular grass tufts hanging down. The top is flat and covered in a single low-poly green grass texture."},
+      {"type": "obj", "bbox": [180, 320, 480, 680], "desc": "A simple two-story house on top of the island, white walls, a triangular terracotta roof, one square window and a small arched door, all in flat vector style with bold dark outlines."},
+      {"type": "obj", "bbox": [80, 540, 460, 760], "desc": "A single stylized round-canopy tree to the right of the house, trunk in muted brown and canopy in two layered shades of green for depth."}
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "high_level_description": "Test bad caption",
+  "style_description": {
+    "medium": "photograph",
+    "aesthetics": "moody",
+    "photo": "35mm, f/1.4",
+    "color_palette": ["#ff8800", "#fff", "rgb(0,0,0)", "red"],
+    "lighting": "low key"
+  },
+  "compositional_deconstruction": {
+    "background": "A dark room.",
+    "elements": [
+      {"type": "obj", "desc": "A figure", "bbox": [100, 100, 50, 50]},
+      {"type": "obj", "bbox": [200, 200, 400, 500], "desc": "object with text field", "text": "wrong"},
+      {"type": "text", "bbox": [500, 500, 600, 600], "desc": "text element without text field"},
+      {"type": "object", "desc": "wrong type"},
+      {"bbox": [10, 10, 20, 20], "desc": "missing type"}
+    ]
+  },
+  "extra_top_level": "should warn"
+}

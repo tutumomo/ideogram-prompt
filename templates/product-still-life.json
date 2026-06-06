@@ -1,0 +1,18 @@
+{
+  "high_level_description": "A close-up product photograph of a matte black ceramic coffee mug on a warm wooden table, three roasted coffee beans beside it, soft window light from the left.",
+  "style_description": {
+    "aesthetics": "warm, tactile, premium, calm and editorial",
+    "lighting": "soft directional window light from the upper left, gentle wraparound fill, subtle specular highlight on the ceramic rim",
+    "photo": "85mm portrait lens, f/4, slight top-down 30-degree angle, shallow depth of field isolating the mug",
+    "medium": "photograph",
+    "color_palette": ["#1B1B1B", "#3E2A1F", "#8B5A2B", "#F2E8DC", "#FFFFFF"]
+  },
+  "compositional_deconstruction": {
+    "background": "A warm walnut wooden table surface with visible grain running left to right, slightly out of focus. Soft falloff to a creamy off-white in the upper portion suggesting a window-lit wall.",
+    "elements": [
+      {"type": "obj", "bbox": [200, 320, 760, 680], "desc": "A matte black ceramic coffee mug, cylindrical with a subtle taper toward the base and a simple rounded handle on the right. A faint steam curl rises from the open top. The surface has a soft satin sheen, not glossy."},
+      {"type": "obj", "bbox": [560, 240, 700, 460], "desc": "Three roasted coffee beans scattered in a loose triangle to the left of the mug, mid-tone brown with the characteristic center crease catching a tiny highlight."},
+      {"type": "obj", "bbox": [760, 600, 940, 880], "desc": "A soft circular shadow cast by the mug onto the wooden table, fading gently outward and grounding the object."}
+    ]
+  }
+}

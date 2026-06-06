@@ -1,0 +1,17 @@
+{
+  "high_level_description": "A wide photograph of a lone hiker on a rocky alpine ridge at first light, with a sea of clouds filling the valley below.",
+  "style_description": {
+    "aesthetics": "expansive, serene, contemplative, golden hour warmth",
+    "lighting": "soft pre-dawn light breaking from the right, low sun raking across the ridge, gentle atmospheric haze in the valley",
+    "photo": "ultra-wide 24mm lens, f/8 deep focus, eye-level from behind, slight forward motion",
+    "medium": "photograph",
+    "color_palette": ["#1B2A41", "#3E5C76", "#F2A65A", "#EAE0D5", "#0F1A2B"]
+  },
+  "compositional_deconstruction": {
+    "background": "A jagged alpine ridge silhouetted against a pale orange and lavender sky. Below the ridge a thick sea of clouds fills the valley, with two distant peaks breaking through on the left. Soft volumetric haze catches the first light.",
+    "elements": [
+      {"type": "obj", "bbox": [380, 460, 720, 560], "desc": "A lone hiker with a small backpack walking along the ridge, back to camera, right foot mid-step, small dark silhouette against the bright sky and cloud sea."},
+      {"type": "obj", "bbox": [0, 0, 1000, 1000], "desc": "A wide foreground of dark weathered rocks and low alpine grass filling the lower third, leading the eye toward the hiker in the middle distance."}
+    ]
+  }
+}

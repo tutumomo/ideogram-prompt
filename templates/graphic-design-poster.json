@@ -1,0 +1,21 @@
+{
+  "high_level_description": "A bold typographic concert poster for an indie folk band, with a centered title, a subtitle, a date, a tagline, a credit line, and an RSVP line, all on a textured midnight-blue field.",
+  "style_description": {
+    "aesthetics": "bold, typographic, indie editorial, high contrast, retro poster",
+    "lighting": "even flat lighting with a single subtle paper grain overlay",
+    "medium": "graphic_design",
+    "art_style": "modern typographic poster, generous kerning, mixed serif display and clean sans-serif body, distressed paper texture overlay",
+    "color_palette": ["#0E1A2B", "#F2E8D5", "#E25C3B", "#7BAE7F", "#FFFFFF"]
+  },
+  "compositional_deconstruction": {
+    "background": "A textured midnight-blue rectangular field with a faint off-white paper grain. A single thin warm-orange horizontal rule sits just above the title baseline. No imagery, no gradient.",
+    "elements": [
+      {"type": "text", "bbox": [120, 120, 280, 880], "text": "WAYWARD HILLS", "desc": "Very large all-caps serif display title, off-white, centered horizontally, with generous letter-spacing."},
+      {"type": "text", "bbox": [310, 200, 380, 800], "text": "Autumn Tour 2026", "desc": "Medium italic serif subtitle in warm orange, centered just below the title."},
+      {"type": "text", "bbox": [490, 250, 570, 750], "text": "NOV 14  ·  THE OLD CHAPEL", "desc": "Small all-caps sans-serif date and venue line in off-white, centered, with two small dot separators."},
+      {"type": "text", "bbox": [690, 200, 760, 800], "text": "\"Songs from the back roads.\"", "desc": "Small italic serif tagline in muted sage green, centered, with curly quotes."},
+      {"type": "text", "bbox": [830, 150, 880, 850], "text": "with special guest  MARLOWE BAND", "desc": "Tiny all-caps sans-serif supporting credit in off-white at 70% opacity, centered."},
+      {"type": "text", "bbox": [910, 250, 970, 750], "text": "RSVP  ·  waywardhills.live", "desc": "Small all-caps sans-serif RSVP line in warm orange, centered, the URL in the same off-white as the rest of the type."}
+    ]
+  }
+}
